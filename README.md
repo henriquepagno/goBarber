@@ -34,7 +34,32 @@
 <br>
 
 <h3 align="center">
-Technologies
+  Screenshots
+</h3>
+
+<h4 align="center">
+  Web
+</h4>
+
+<p align="center">
+  <img src="/screenshots/Login.png" alt="Login"/>
+  <img src="/screenshots/Dashboard.png" alt="Dashboard"/>
+</p>
+
+<h4 align="center">
+  Mobile
+</h4>
+
+
+<p align="center">
+  <img src="/screenshots/Dashboard_mobile.png" alt="Dashboard"/>
+  <img src="/screenshots/Profile_mobile.png" alt="Login"/>
+</p>
+
+<br>
+
+<h3 align="center">
+  Technologies
 </h3>
 
 This project was developed with the following technologies:
